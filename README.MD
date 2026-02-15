@@ -1,3 +1,11 @@
+**There are 2 ApolloX programs addressed in my REPOS:**
+
+- **[1] ApolloX (Earth → Moon → Earth)** (this REPO)
+
+- [2] ApolloXM (Earth → Mars → Earth)
+
+---
+
 **Intended audience**
 - Aerospace enthusiasts
 - KSP / RO users
@@ -31,11 +39,6 @@ By **Keeping**:
   </tr>
 </table>
 
-There are 2 ApolloX programs addressed in my REPOS:
-
-- **[1] ApolloX (Earth → Moon → Earth)** (this REPO)
-
-- [2] ApolloXM (Earth → Mars → Earth)
 
 ---
 
